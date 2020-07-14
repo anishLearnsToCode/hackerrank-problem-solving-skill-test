@@ -1,6 +1,6 @@
 # HackerRank Problem Solving (Basic) Skill Certification Test 
 
-![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-problem-solving-basic-skill-test.svg)
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-problem-solving-skill-test.svg)
 ![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-2/2-1abc9c.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
